@@ -1,16 +1,35 @@
-# flutter_praktikum_5
+# 🎧 Flutter Project - Music Now Playing
 
-A new Flutter project.
+A minimalist Flutter app showcasing a *“Now Playing”* music interface.  
+This project focuses on using *Card*, *Icon*, and *Text* widgets to create a clean, dark-themed music layout.
 
-## Getting Started
+## 🧩 Preview
+The app shows:
+- A sleek *dark background* with a centered card.
+- Inside the card:
+  - 🎵 Album icon  
+  - 🎶 Song title and artist name  
+  - ❤️ Like button on the right corner  
+- A subtle elevation effect for a stylish look.
 
-This project is a starting point for a Flutter application.
+## 💡 Result
+When you run the app, it will display a layout like this:
+```
+-------------------------------
+|       Sedang memutar        |
+|                             |
+|   [💿]                      |
+|   Di sini ada judul lagu    |
+|   Di sini ada nama artis    |
+|                ❤️           |
+-------------------------------
+```
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Tech Used
+- *Flutter SDK*
+- *Dart Language*
+- *Material Design Widgets*
+- *Dark Theme UI*
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+✨ *A simple yet elegant “Now Playing” card layout built with Flutter!*  
+````
